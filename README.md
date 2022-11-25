@@ -1,3 +1,3 @@
-# www.sdafader.com
+# www.javedali.tech
 
 My Personal Webpage. 
