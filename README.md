@@ -1,3 +1,3 @@
-# www.javedali.tech
+# portfolio.javedali.tech
 
 My Personal Webpage. 
