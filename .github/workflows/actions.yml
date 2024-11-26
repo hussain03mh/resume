@@ -1,0 +1,15 @@
+name: Hello World Workflow
+on:
+  workflow_dispatch:
+
+jobs:
+  say-hello:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Print Hello, World!
+      - name: Print Hello World
+        run: echo "Hello, World!"
